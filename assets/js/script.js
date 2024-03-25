@@ -29,3 +29,7 @@ function displaySubtractQuestion() {
 function displayMultiplyQuestion() {
     
 }
+
+function displayDivideQuestion() {
+    
+}
