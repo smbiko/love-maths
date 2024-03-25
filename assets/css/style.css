@@ -1,3 +1,4 @@
+
 /* --------- Global style */
 
 body {
@@ -112,13 +113,12 @@ body {
 }
 
 .btn--big::after{
-    content:attr(data-type);
+    content: attr(data-type);
     font-size: 1rem;
-    color:#445361;
+    color: #445361;
     position: relative;
     left: -0.5em;
 }
-
 
 .btn--blue {
     border-color: blue;
